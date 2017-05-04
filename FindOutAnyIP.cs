@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Net;
+using System.Net;//allows for socket programming
 namespace WhtsMyIP
 {
     public partial class Form1 : Form// .net form
